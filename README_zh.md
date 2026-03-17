@@ -5,7 +5,7 @@
 <a href='https://arxiv.org/abs/2603.14473'><img src='https://img.shields.io/badge/arXiv-2603.14473-b31b1b.svg'></a>
 <a href='https://huggingface.co/collections/OpenMOSS-Team/ai-can-learn-scientific-taste'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow'></a>
 <a href='https://tongjingqi.github.io/AI-Can-Learn-Scientific-Taste/'><img src='https://img.shields.io/badge/🌐%20Project-Page-blue'></a>
-<a href='LICENSE'><img src='https://img.shields.io/badge/License-MIT-green.svg'></a>
+<a href='LICENSE'><img src='https://img.shields.io/badge/License-Apache%202.0-green.svg'></a>
 
 [English](README.md) | 中文
 
@@ -101,4 +101,4 @@ RLCF 包含三个阶段：
 
 ## ⚖️ 许可证
 
-本项目采用 MIT 许可证。详见 [LICENSE](LICENSE)。
+本项目采用 Apache License 2.0 许可证。详见 [LICENSE](LICENSE)。
